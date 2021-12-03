@@ -20,4 +20,5 @@ object Expressions extends App {
     val z = y + 1
     if (z > 2) "hello" else "good bye"
   }
+  println(aCodeBlock)
 }
